@@ -1,0 +1,16 @@
+.MuiTableCell-sizeSmall {
+  padding: 5px !important;
+}
+.makeStyles-margin-29 {
+  color: white;
+  margin: 3px !important;
+}
+.MuiAccordionSummary-content.Mui-expanded {
+  margin: 10px 0 !important;
+}
+.MuiAccordionSummary-root.Mui-expanded {
+  min-height: 45px !important;
+}
+li div span {
+  font-size: 11px !important;
+}
